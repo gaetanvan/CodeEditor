@@ -2,3 +2,7 @@
     height: 250px;
     resize: none;
 }
+#gif {
+    height: 60px;
+    width: 60px;
+}
